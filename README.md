@@ -7,9 +7,7 @@
 
 Hi there 👋,
 
-My name is Ömer Faruk Bağcı and I'm a software developer. I'm a last year student of Yıldız Technical University at mechatronic engineering department. I'm from Turkey.
-
-- 🌱 I’m currently learning docker
+My name is Ömer Faruk Bağcı and I'm a fullstack developer. I'm a last year student of Yıldız Technical University at mechatronic engineering department. I'm from Turkey.
 
 
 ## 🔧 Technologies & Tools
@@ -23,6 +21,8 @@ My name is Ömer Faruk Bağcı and I'm a software developer. I'm a last year stu
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 
 
 ## &#x1f4c8; GitHub Stats
