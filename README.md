@@ -37,6 +37,12 @@ My name is Ömer Faruk Bağcı and I'm a fullstack developer. I'm a last year st
 
 # Index of my projects and course following
 ## 1. Projects
+### pomo
+https://github.com/antinucleus/pomo
+- React Navigation
+- React Native Reanimated
+- React Native Vector Icons
+- React Native Sound
 ### react-native-grpc-client
 https://github.com/antinucleus/react-native-grpc-client
 - Grpc
