@@ -68,3 +68,15 @@ https://github.com/antinucleus/Techbase_React_Typescript_Course
 https://github.com/antinucleus/chakraui-tutorial
 - React typescript
 - ChakraUI
+### mastering-data-structures-and-algorithms-using-c-cpp
+https://github.com/antinucleus/mastering-data-structures-and-algorithms-using-c-cpp
+- Data Structures
+### GoBootcamp_Master_Golang_with_1000_Exercises_and_Projects
+https://github.com/antinucleus/GoBootcamp_Master_Golang_with_1000_Exercises_and_Projects
+- Go
+
+## 3. Embedded Course Follow Along, Tutorial Projects
+### mastering-microcontroller-and-embedded-driver-development
+https://github.com/antinucleus/mastering-microcontroller-and-embedded-driver-development
+- Stm32F407
+- C
