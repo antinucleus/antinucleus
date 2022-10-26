@@ -43,6 +43,13 @@ https://github.com/antinucleus/pomo
 - React Native Reanimated
 - React Native Vector Icons
 - React Native Sound
+### react todo app
+https://github.com/antinucleus/react-todo-app
+- React
+- Typescript
+- Chakra-ui
+- React-query
+- React-router-dom
 ### react-native-grpc-client
 https://github.com/antinucleus/react-native-grpc-client
 - Grpc
