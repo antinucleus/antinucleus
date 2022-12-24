@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://www.instagram.com/omer.faruk_bagci/"><img height="30" src="https://github.com/antinucleus/antinucleus/blob/main/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ba%C4%9Fc%C4%B1-96a160175/"><img height="30" src="https://github.com/antinucleus/antinucleus/blob/main/icons/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/omerfarukbagci/"><img height="30" src="https://github.com/antinucleus/antinucleus/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
 Hi there 👋,
