@@ -5,9 +5,13 @@
 <a href="https://www.linkedin.com/in/omerfarukbagci/"><img height="30" src="https://github.com/antinucleus/antinucleus/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
+## Ömer Faruk Bağcı 🇹🇷
+### Full-stack Developer | Yıldız Technical University | Mechatronics Engineering
+
+
 Hi there 👋,
 
-My name is Ömer Faruk Bağcı and I'm a fullstack developer. I'm a last year student of Yıldız Technical University at mechatronic engineering department. I'm from Turkey.
+You can see my projects and completed courses below
 
 
 ## 🔧 Technologies & Tools
