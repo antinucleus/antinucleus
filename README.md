@@ -40,20 +40,68 @@ You can see my projects and completed courses below
 </a>
 
 # Index of my projects and course following
+
+
+# Table of Contents
+## [1. Projects](#1-projects-1)
+- [Findit](#findit)
+- [Solana Smart Contract](#solana-smart-contract)
+- [Full-stack Solana Project](#full-stack-solana-project)
+- [Nfsu2 Tools](#nfsu2-tools)
+- [Pomo](#pomo)
+- [Todo App](#react-todo-app)
+- [React Native Grpc Client](#react-native-grpc-client)
+- [Go Server Grpc](#go-server-grpc)
+## [2. Course Follow Along, Tutorial Projects](#2-course-follow-along-tutorial-projects-1)
+- [The Ultimate Docker Course](#the-ultimate-docker-course)
+- [Techbase React Typescript Course](#techbase-react-typescript-course)
+- [Chakra UI Tutorial](#chakra-ui-tutorial)
+- [Mastering Data Structures and Algorithms Using C Cpp](#mastering-data-structures-and-algorithms-using-c-cpp) 
+- [GoBootcamp Master Golang with 1000 Exercises and Projects](#go-boootcamp-master-golang-with-1000-exercises-and-projects)
+## [3. Embedded Course Follow Along, Tutorial Projects](#3-embedded-course-follow-along-tutorial-projects-1)
+- [Mastering microcontroller and Embedded Driver Development](#mastering-microcontroller-and-embedded-driver-development)
+
 ## 1. Projects
+### findit
+https://github.com/antinucleus/findit
+- Typescript Template
+- Solana Web3.js
+- Project-Serum/Borsh
+- Zustand
+- React Native Reanimated v2
+- React Native Keychain
+- React Native Toast Message
+- React Navigation
+- React Native Vector Icons
+### solana-smart-contract
+https://github.com/antinucleus/findit-solana-smart-contract
+- Borsh
+- Solana Program
+### full-stack-solana-project
+https://github.com/antinucleus/solana-project-basic-level
+- Solana Program
+- React
+- Typescript
+- Solana Web3.js
+- Chakra UI
+### nfsu2-tools
+https://github.com/antinucleus/nfsu2-tools
+- Rdev
+- Strum
+- Device Query
 ### pomo
 https://github.com/antinucleus/pomo
 - React Navigation
 - React Native Reanimated
 - React Native Vector Icons
 - React Native Sound
-### react todo app
+### react-todo-app
 https://github.com/antinucleus/react-todo-app
 - React
 - Typescript
-- Chakra-ui
-- React-query
-- React-router-dom
+- Chakra UI
+- React Query
+- React Router Dom
 ### react-native-grpc-client
 https://github.com/antinucleus/react-native-grpc-client
 - Grpc
@@ -67,24 +115,24 @@ https://github.com/antinucleus/go-server-grpc
 - Protoc
 
 ## 2. Course Follow Along, Tutorial Projects
-### The_Ultimate_Docker_Course
+### the-ultimate-docker-course
 https://github.com/antinucleus/The_Ultimate_Docker_Course
 - Docker
 - Docker Compose
 - Docker Machine
-### Techbase_React_Typescript_Course
+### techbase-react-typescript-course
 https://github.com/antinucleus/Techbase_React_Typescript_Course
 - React typescript
-### ChakraUI Tutorial
+### chakra-ui-tutorial
 https://github.com/antinucleus/chakraui-tutorial
-- React typescript
+- React Typescript
 - ChakraUI
 ### mastering-data-structures-and-algorithms-using-c-cpp
 https://github.com/antinucleus/mastering-data-structures-and-algorithms-using-c-cpp
 - Data Structures
-### GoBootcamp_Master_Golang_with_1000_Exercises_and_Projects
+### go-boootcamp-master-golang-with-1000-exercises-and-projects
 https://github.com/antinucleus/GoBootcamp_Master_Golang_with_1000_Exercises_and_Projects
-- Go
+- Go Language
 
 ## 3. Embedded Course Follow Along, Tutorial Projects
 ### mastering-microcontroller-and-embedded-driver-development
